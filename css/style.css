@@ -1,0 +1,71 @@
+*,
+*::before,
+*::after {
+   margin: 0;
+   padding: 0;
+   border: 0;
+}
+li {
+   list-style: none;
+}
+
+a,
+a:visited {
+   text-decoration: none;
+}
+
+a:hover {
+   text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+   font-weight: inherit;
+   font-size: inherit;
+}
+
+img {vertical-align: top;}
+
+.red {
+   color: red;
+}
+
+.yellow {
+   color: yellow;
+}
+
+.blue {
+   color: blue;
+}
+
+.green {
+   color: green;
+}
+
+.orange {
+   color: orange;
+}
+
+.aqua {
+   color: aqua;
+}
+
+.brown {
+   color: brown;
+}
+
+.fuchsia {
+   color: fuchsia;
+}
+
+.gray {
+   color: gray;
+}
+
+.pink {
+   color: pink;
+}
